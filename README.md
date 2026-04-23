@@ -119,7 +119,6 @@ Provides a user-friendly interface where users can input text and receive genera
 ---
 
 ##  Installation & Setup  
-### 1. Clone the Repository  
 
 ```bash
 git clone https://github.com/your-username/spark-tts.git
